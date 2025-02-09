@@ -1,0 +1,16 @@
+DataStructureVisualizer
+    include
+        - DataStructure.h
+        - Stack.h
+        - Queue.h
+        - LinkedList.h
+        - BinaryTree.h
+    src
+        - main.cpp
+        - Stack.cpp
+        - Queue.cpp
+        - LinkedList.cpp
+        - BinaryTree.cpp
+    resources
+        - fonts
+        - images
